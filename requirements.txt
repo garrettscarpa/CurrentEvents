@@ -1,0 +1,12 @@
+# Runtime dependencies for "Current Events".
+# Install these into a clean virtual environment before building.
+#
+#   python -m venv build-env
+#   (activate it — see BUILD_INSTRUCTIONS)
+#   pip install -r requirements.txt pyinstaller
+#
+numpy
+scipy
+matplotlib
+pyabf
+PyQt5
