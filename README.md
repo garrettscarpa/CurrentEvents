@@ -18,7 +18,7 @@ Detection metrics and analysis options (including the 60 s window) are now confi
 
 ## Organizing your data
 
-View the sample data in the **Voltage Clamp** folder to see how to structure your data. Briefly, put the gapfree recordings in separate folders within one parent folder, where each subfolder title is the condition of its contents.
+Put the gapfree recordings in separate folders within one parent folder, where each subfolder title is the condition of its contents.
 
 Once the data are correctly organized, point CurrentEvents at your parent directory (the one that holds the condition subfolders and data) and start the analysis after reviewing the detection metrics.
 
